@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Games
 
-![Genshin Impact](https://genshin-card.getloli.com/detail/rand/281362471.png)
+![Genshin Impact](https://genshin-card.getloli.com/1,3/281362471.png)
 
 
