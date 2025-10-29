@@ -12,7 +12,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Games
-
-![Genshin Impact](https://genshin-card.himiku.com/rand/281362471.png)
-
